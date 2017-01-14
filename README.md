@@ -8,7 +8,7 @@
 
 ### Caffe (for mac OsX)
 
-###### General dependencies
+##### General dependencies
 
 ```unix
 brew install -vd snappy leveldb gflags glog szip lmdb
